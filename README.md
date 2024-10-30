@@ -1,1 +1,3 @@
 # Rice-Vision
+The Rice Vision Model is an AI-powered system developed to improve the quality control process in rice exportation by employing localized technology tailored for the needs of Pakistani rice exporters. The model utilizes advanced machine vision to inspect individual rice grains for quality, assessing factors such as color, size, and surface texture to detect any defects. Once a defective grain is identified, the model activates a precise air jet mechanism that efficiently removes it from the batch. This streamlined approach ensures only high-quality rice is processed for export, minimizing human intervention and maintaining consistent quality standards.
+
